@@ -1,5 +1,7 @@
 # Python-for-Data-Science-College
 
+<p><a href="https://colab.research.google.com/github/Code-Parth/Python-for-Data-Science-GTU/blob/master/Python_for_Data_Science.ipynb" target="_parent"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/></a></p>
+
 https://code-parth.github.io/Python-for-Data-Science-GTU/
 
 # **Practical 01**
