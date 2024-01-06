@@ -1,5 +1,7 @@
 # Python-for-Data-Science-College
 
+https://code-parth.github.io/Python-for-Data-Science-GTU/
+
 # **Practical 01**
 
 **Programs to understand the control structures of python.**
